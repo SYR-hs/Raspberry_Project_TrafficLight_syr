@@ -1,8 +1,8 @@
-from gpiozero import LED
-from time import sleep
+from gpiozero import LED     # ‘gpiozero’ 라이브러리에서‘LED’  클래스를가져옴
+from time import sleep       # ‘time’ 라이브러리에서‘sleep’ 함수를가져옴
 
-carLedRed = 2
-carLedYellow = 3
+carLedRed = 2                # 다양한LED 핀의핀번호를변수로정의함 (Lines 4 ~ 8)
+carLedYellow = 3             # carLedRed, carLedYellow, carLedGreen, humanLedRed,humanLedGreen 변수에각각핀번호를할당
 carLedGreen = 4
 humanLedRed = 20
 humanLedGreen = 21
