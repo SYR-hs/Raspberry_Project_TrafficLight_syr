@@ -34,9 +34,10 @@ try:
 except:
     # 오류가 발생했을 때 실행할 코드
     print("숫자가 아닙니다.")
-
-[출처] [Python] 예외처리 (try / except)|작성자 smxmeux
 ```
+[출처] [Python] 예외처리 (try / except)|작성자 smxmeux
+https://blog.naver.com/zagolife/224144633521
+
 
 try 안에서 오류가 나면, 아래로 더 실행하지 않고 except 로 이동한다.
 
