@@ -2,7 +2,7 @@
 
 소스코드는 main2.py 파일에 정리되어 있습니다.
 
-실험영상 링크: 유튜브
+실험영상 링크: https://youtu.be/LPIBaBWrb6E
 
 ----
 
