@@ -1,6 +1,6 @@
 # Raspberry_Project_syr
 
-소스코드는 main2.py 파일에 정리되어 있습니다.
+소스코드는 mainCode.py 파일에 정리되어 있습니다.
 
 라즈베리파이 신호등 시연 영상 링크: https://youtu.be/LPIBaBWrb6E
 
